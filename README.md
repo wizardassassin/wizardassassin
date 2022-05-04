@@ -10,7 +10,7 @@
 
 ### GitHub Stats
 
-[![wizardassassin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wizardassassin&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![wizardassassin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wizardassassin&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

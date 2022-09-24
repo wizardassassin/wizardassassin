@@ -10,13 +10,13 @@
 
 ### GitHub Stats
 
-[![wizardassassin's Github Stats](https://github-readme-stats.vercel.app/api?username=wizardassassin&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![wizardassassin's Github Stats](https://github-readme-stats.vercel.app/api?username=wizardassassin&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/wizardassassin)
 
 ---
 
 ### Programming Language Usage Stats
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wizardassassin&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wizardassassin&theme=radical)](https://github.com/wizardassassin)
 
 ---
 

@@ -10,13 +10,13 @@
 
 ### GitHub Stats
 
-[![wizardassassin's Github Stats](https://github-readme-stats.vercel.app/api?username=wizardassassin&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/wizardassassin)
+[![wizardassassin's Github Stats](https://github-readme-stats.vercel.app/api?username=wizardassassin&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](#github-stats)
 
 ---
 
 ### Programming Language Usage Stats
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wizardassassin&theme=radical)](https://github.com/wizardassassin)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wizardassassin&theme=radical)](#programming-language-usage-stats)
 
 ---
 
@@ -24,7 +24,7 @@
 
 [Epic Repos Here :D]
 
-<!-- <a href="https://github.com/wizardassassin">
+<!-- <a href="#pins">
   <img align="top"
     src="https://github-readme-stats.vercel.app/api/pin/?username=wizardassassin&repo=TempRepo&theme=radical"
     alt="wizardassassin/TempRepo Github Repo" />
@@ -36,7 +36,7 @@
 <details>
   <summary>More 😊</summary>
   <br>
-  <a href="https://github.com/wizardassassin">
+  <a href="#pins">
     <img align="top"
       src="https://github-readme-stats.vercel.app/api/pin/?username=wizardassassin&repo=wizardassassin.github.io&theme=radical"
       alt="wizardassassin/wizardassassin.github.io Github Repo" />

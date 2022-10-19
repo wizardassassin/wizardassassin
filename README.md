@@ -24,25 +24,31 @@
 
 [Epic Repos Here :D]
 
-<!-- <a href="#pins">
-  <img align="top"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=wizardassassin&repo=TempRepo&theme=radical"
-    alt="wizardassassin/TempRepo Github Repo" />
-  <img align="top"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=wizardassassin&repo=TempRepo&theme=radical"
-    alt="wizardassassin/TempRepo Github Repo" />
+<!-- <a href="http://">
+<img align="top"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=wizardassassin&repo=wizardassassin.github.io&theme=radical"
+    alt="wizardassassin/wizardassassin.github.io Github Repo" />
+</a>
+<a href="http://">
+<img align="top"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=wizardassassin&repo=graphing-data&theme=radical"
+    alt="wizardassassin/graphing-data Github Repo" />
 </a> -->
 
 <details>
   <summary>More 😊</summary>
   <br>
-  <a href="#pins">
+  <a href="https://github.com/wizardassassin/wizardassassin.github.io">
     <img align="top"
       src="https://github-readme-stats.vercel.app/api/pin/?username=wizardassassin&repo=wizardassassin.github.io&theme=radical"
       alt="wizardassassin/wizardassassin.github.io Github Repo" />
+  </a>
+  <a href="https://github.com/wizardassassin/graphing-data">
     <img align="top"
       src="https://github-readme-stats.vercel.app/api/pin/?username=wizardassassin&repo=graphing-data&theme=radical"
       alt="wizardassassin/graphing-data Github Repo" />
+  </a>
+  <a href="https://github.com/wizardassassin/simple-quiz">
     <img align="top"
       src="https://github-readme-stats.vercel.app/api/pin/?username=wizardassassin&repo=simple-quiz&theme=radical"
       alt="wizardassassin/simple-quiz Github Repo" />

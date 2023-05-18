@@ -14,7 +14,7 @@
             alt="Github Stats" />
     </a>
     <br>
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <a href="https://www.codewars.com/users/wizardassassin">
         <img width="466" src="https://www.codewars.com/users/wizardassassin/badges/large" alt="Readme Quote" />
     </a>
 </div>
